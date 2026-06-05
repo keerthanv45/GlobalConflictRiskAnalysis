@@ -17,7 +17,7 @@ st.set_page_config(
 # =========================
 # LOAD DATA
 # =========================
-df = pd.read_csv("data/cleaned/final_dataset.csv")
+df = pd.read_csv("final_dataset.csv")
 
 # =========================
 # CUSTOM CSS
